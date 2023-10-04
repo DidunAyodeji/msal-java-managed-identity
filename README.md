@@ -12,11 +12,13 @@ This repository contains samples that show how to use [Azure Managed Identity](h
 
 * [Announcing Microsoft Authentication Library for .NET 4.54.0, with General Availability of Managed Identity APIs](https://devblogs.microsoft.com/identity/msal-net-managed-identity-ga/)
 * [Managed identity with MSAL.NET](https://learn.microsoft.com/entra/msal/dotnet/advanced/managed-identity)
+* [Managed identity with Java](https://learn.microsoft.com/entra/msal/dotnet/advanced/managed-identity)
 
 ## Authors
 
 * [@neha-bhargava](https://github.com/neha-bhargava)
 * [@gladjohn](https://github.com/gladjohn)
+* [Avery-Dunn](https://github.com/Avery-Dunn)
 
 ## Get support
 
